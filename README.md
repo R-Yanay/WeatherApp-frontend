@@ -1,6 +1,6 @@
 # Weather App GUI
 
-Eine JavaFX Desktop-App, die Wetterdaten von der [WeatherApp Spring Boot API](https://github.com/dein-name/WeatherApp) abruft und in einem Fenster anzeigt.
+Eine JavaFX Desktop-App, die Wetterdaten von der [WeatherApp Spring Boot API](https://github.com/R-Yanay/WeatherApp-backend) abruft und in einem Fenster anzeigt.
 
 ## Features
 
@@ -21,7 +21,7 @@ Eine JavaFX Desktop-App, die Wetterdaten von der [WeatherApp Spring Boot API](ht
 
 ### 1. Backend starten
 
-Diese App braucht die [WeatherApp Spring Boot API](https://github.com/dein-name/WeatherApp). Starte sie zuerst:
+Diese App braucht die [WeatherApp Spring Boot API](https://github.com/R-Yanay/WeatherApp-backend). Starte sie zuerst:
 
 ```bash
 cd C:\Users\roiya\IdeaProjects\WeatherApp
@@ -76,4 +76,4 @@ Dieses Projekt zeigt:
 
 ## Backend
 
-Das Backend-Projekt [WeatherApp](https://github.com/dein-name/WeatherApp) ist eine Spring Boot REST API mit OpenWeatherMap-Integration.
+Das Backend-Projekt [WeatherApp](https://github.com/R-Yanay/WeatherApp-backend) ist eine Spring Boot REST API mit OpenWeatherMap-Integration.
