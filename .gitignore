@@ -1,0 +1,10 @@
+# Compiled class files
+target/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
