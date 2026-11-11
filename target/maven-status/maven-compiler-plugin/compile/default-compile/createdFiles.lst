@@ -1,0 +1,4 @@
+com\wettergui\Main.class
+com\wettergui\WeatherAppGUI.class
+com\wettergui\dto\WeatherResponse.class
+com\wettergui\dto\ForecastResponse.class
