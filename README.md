@@ -38,7 +38,7 @@ mvn javafx:run
 ## Nutzung
 
 1. Gib einen Stadtname ein (z. B. "Zurich", "Berlin", "New York")
-2. Klicke auf "Wetter anzeigen"
+2. Klicke auf "Get Weather"
 3. Das aktuelle Wetter und die 5-Tage-Vorhersage werden angezeigt
 
 ## Architektur
